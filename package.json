@@ -1,0 +1,42 @@
+{
+	"name": "chai-check-struct",
+	"version": "1.0.0",
+	"description": "port of check-structure to chai",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/drafolin/chai-check-structure.git"
+	},
+	"author": "drafolin",
+	"license": "ISC",
+	"types": "index.d.ts",
+	"keywords": [
+		"chai",
+		"check",
+		"structure",
+		"check-structure",
+		"chai-check-structure",
+		"interface",
+		"type",
+		"mapping",
+		"schema",
+		"object",
+		"check-object",
+		"check-schema",
+		"check-mapping",
+		"check-interface",
+		"check-type",
+		"check-structure",
+		"check-struct"
+	],
+	"bugs": {
+		"url": "https://github.com/drafolin/chai-check-structure/issues"
+	},
+	"homepage": "https://github.com/drafolin/chai-check-structure#readme",
+	"dependencies": {
+		"check-structure": "^1.0.3"
+	}
+}
