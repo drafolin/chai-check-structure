@@ -11,7 +11,5 @@ function chaiStructure(chai, utils) {
 
 }
 
-module.exports = {
-	chaiStructure,
-	default: chaiStructure
-};
+module.exports = chaiStructure;
+exports.chaiStructure = chaiStructure;
