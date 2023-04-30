@@ -1,6 +1,6 @@
 {
 	"name": "chai-check-struct",
-	"version": "1.0.2",
+	"version": "1.1.0",
 	"description": "port of check-structure to chai",
 	"main": "index.js",
 	"types": "./types/index.d.ts",
